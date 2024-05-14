@@ -31,7 +31,3 @@ The model's performance is evaluated using test messages, and it achieves a high
 ## Credits
 
 This project is part of a challenge and utilizes resources provided by FreeCodeCamp.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE] file for details.
