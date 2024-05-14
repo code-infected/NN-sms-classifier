@@ -28,10 +28,10 @@ The model's performance is evaluated using test messages, and it achieves a high
 - **Handling Imbalance**: Explore techniques to handle class imbalance if present in the dataset.
 - **Feature Engineering**: Consider adding additional features or preprocessing steps to improve the model's accuracy.
 
-##Credits
+## Credits
 
 This project is part of a challenge and utilizes resources provided by FreeCodeCamp.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.
